@@ -1,2 +1,2 @@
-# DocsifyDocs
-Dimensions Studio DocsifyDocs
+# 维度官方文档
+?> 目前开发框架已定好，所有界面均在开发中...
